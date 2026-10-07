@@ -1,0 +1,6 @@
+{
+  "name": "Cricklytics AI",
+  "description": "AI-powered cricket performance analytics, batting & bowling intelligence, player comparisons, and smart coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
